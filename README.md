@@ -2,6 +2,8 @@
 
 An app creating a low poly cityscape scene with generative music. It runs SuperCollider code in the browser, generates sound procedurally and syncs the sound with visual animations.
 
+View here: https://dusko-tan.vercel.app/
+
 ```
 npm install
 npm run dev
